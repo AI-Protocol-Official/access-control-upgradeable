@@ -1,5 +1,5 @@
 {
-  "name": "@lazy-sol/access-control-upgradeable",
+  "name": "@ai-protocol/access-control-upgradeable",
   "version": "1.0.1",
   "description": "Enable the modular plug and play (PnP) architecture for your dapp by incorporating the role-based access control (RBAC) into the smart contracts",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "access control",
     "modular architecture"
   ],
-  "author": "Basil Gorin",
+  "author": "AI Protocol",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-truffle5": "^2.0.7",
